@@ -87,4 +87,3 @@ describe("About Higher Order Functions", function () {
   });
 
 });
-
